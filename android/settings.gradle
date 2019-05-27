@@ -1,0 +1,3 @@
+rootProject.name = 'tbi_help_3894'
+
+include ':app'
